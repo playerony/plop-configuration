@@ -1,0 +1,23 @@
+{
+  "name": "plop-configuration",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "plop": "npx plop"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/playerony/plop-configuration.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/playerony/plop-configuration/issues"
+  },
+  "homepage": "https://github.com/playerony/plop-configuration#readme",
+  "devDependencies": {
+    "inquirer-directory": "^2.2.0",
+    "plop": "^2.7.4"
+  }
+}
